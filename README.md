@@ -11,6 +11,11 @@
 Consider function f:
   * f:{0,1}<sup>2</sup> -> F<sub>5</sub> is a function mapping {0,1}<sup>2</sup> to the field F<sub>5</sub> and f<sub>0</sub> = 1, f<sub>1</sub> = 2, f<sub>2</sub> = 1, f<sub>3</sub> = 3.
 
+|   | 0 | 1 | 
+| - | - | - |
+| 0 | 1 | 2 |
+| 1 | 1 | 4 |
+
 For computing the Multilinear Polynomial Extension of function f based on x<sub>1</sub> = 2 and x<sub>2</sub> = 3:
 
 Please specify the group order: 
@@ -27,6 +32,16 @@ Please enter your inputs for your multilinear polynomial extension:
 8. 3\
 Final result: 16\
 16 mod 5 =  1
+
+Multilinear Polynomial Extension of function f based on different inputs over F<sub>5</sub>:
+
+|   | 0 | 1 | 2 | 3 | 4 |
+| - | - | - | - | - | - |
+| 0 | 1 | 2 | 3 | 4 | 0 |
+| 1 | 1 | 4 | 2 | 0 | 3 |
+| 2 | 1 | 1 | 1 | 1 | 1 |
+| 3 | 1 | 3 | 0 | 2 | 4 |
+| 4 | 1 | 0 | 4 | 3 | 2 |
 
 ## Support
 Reach out to me at riasiarman@yahoo.com
