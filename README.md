@@ -6,7 +6,7 @@
 ## How to Run
 ``python3 multilinearPolynomial.py``
 
-## Examples
+## Example
 
 Consider function f:
   * f:{0,1}<sup>2</sup> -> F<sub>5</sub> is a function mapping {0,1}<sup>2</sup> to the field F<sub>5</sub> and f<sub>0</sub> = 1, f<sub>1</sub> = 2, f<sub>2</sub> = 1, f<sub>3</sub> = 3.
