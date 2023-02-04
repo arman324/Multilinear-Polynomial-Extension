@@ -3,6 +3,8 @@
 
 ## What is Multilinear Polynomial Extension (MLE) 
 
+The multilinear polynomial extension (MLE) is a low-degree polynomial extension in which each variable has a degree of at most one.
+
 ## How to Run
 ``python3 multilinearPolynomial.py``
 
